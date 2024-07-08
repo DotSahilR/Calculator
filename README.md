@@ -10,4 +10,4 @@
 - JavaScript
   
 ## Screenshot
-![Screenshot](https://github.com/DotSahilR/BYTEUPRISE_WD_02/blob/main/output.png)
+![Screenshot](https://github.com/DotSahilR/Calculator/blob/main/output.png)
